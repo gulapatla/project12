@@ -1,0 +1,48 @@
+#peepeepoopoo
+{
+    text-align: center;
+    background-color: aqua;
+    border: 1px ;
+  
+}
+#d1
+{
+    border: 1px ;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: rgb(84, 255, 5);
+}
+#d2
+{
+    border: 1px ;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: rgb(84, 255, 4);
+}
+center{
+    background-color: chartreuse;
+}
+body
+{
+    background-color: aqua;
+}
+.ibox
+{
+    background-color: darkgray;
+}
+#dynamicMadness
+{
+    background-color: goldenrod;
+}
+#but2
+{
+    background-color: aqua;
+}
+#peepeepoopoo
+{
+    background-color: brown;
+}
